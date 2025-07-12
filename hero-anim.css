@@ -1,0 +1,5 @@
+/* HERO ANIMATION STYLES */
+.anim-hero-svg,
+.anim-hero-svg:not(:root) {
+  overflow: visible;
+}

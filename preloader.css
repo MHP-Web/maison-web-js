@@ -1,0 +1,11 @@
+.preloader {
+    opacity: 1;
+    perspective: 2000px;
+    transform-style: preserve-3d;
+  }
+  .preloader-strip {
+    width: 5%;
+    height: 100%;
+    transform-origin: bottom;
+  }
+  

@@ -1,0 +1,77 @@
+/* Explore Listing style */
+.other_listing_card_contain.anim-other-listing-gallery {
+    width: 35rem;
+    height: 45rem;
+  }
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(1) {
+    top: calc(50% - 25rem);
+    left: calc(50% - 20rem);
+    right: auto;
+    z-index: 10;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(2) {
+    top: -10%;
+    left: -10%;
+    right: auto;
+    z-index: 9;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(3) {
+    top: -12%;
+    right: -10%;
+    left: auto;
+    z-index: 8;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(4) {
+    z-index: 7;
+    top: calc(50% - 25rem);
+    left: calc(50% - 20rem);
+    right: auto;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(5) {
+    bottom: -10%;
+    left: -10%;
+    right: auto;
+    z-index: 6;
+    top: auto;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(6) {
+    top: -25%;
+    left: auto;
+    right: -20%;
+    z-index: 5;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(7) {
+    top: 10%;
+    right: 30%;
+    left: auto;
+    z-index: 4;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(8) {
+    bottom: -40%;
+    right: -20%;
+    left: auto;
+    z-index: 3;
+    top: auto;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(9) {
+    left: -25%;
+    top: -50%;
+    right: auto;
+    z-index: 2;
+  }
+  
+  .other_listing_gallery_wrap .other_listing_card_contain:nth-child(10) {
+    top: calc(50% - 25rem);
+    left: calc(50% - 20rem);
+    right: auto;
+    z-index: 1;
+  }
+  
