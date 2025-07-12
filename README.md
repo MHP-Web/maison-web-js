@@ -2,6 +2,7 @@
 
 # CDN links for each scripts
 [https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/bottom-nav.js](https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/bottom-nav.js)
+
 [https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/exclusive-details.js](https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/exclusive-details.js)
 [https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/exclusive-modal.js](https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/exclusive-modal.js)
 [https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/exclusive.js](https://cdn.jsdelivr.net/gh/MHP-Web/maison-web-js@main/exclusive.js)
